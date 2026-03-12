@@ -1,0 +1,3 @@
+file1.txt
+this is the frist git file 
+some some repo for the projct
