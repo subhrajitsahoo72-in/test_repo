@@ -2,3 +2,5 @@ this is the anoter file and its anthor code
 and its normall
 this is the wnader ful commit fir in  revert pratice 
 and it unstange porpose and i think it work on my skill 
+
+this is the linux sarver connect
